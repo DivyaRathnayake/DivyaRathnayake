@@ -5,7 +5,7 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Undergraduate;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=8338ec&vCenter=true&size=45%22"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dakshinapatabandi&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyarathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p>
 
 <table align="center">
 <tr border="none">
