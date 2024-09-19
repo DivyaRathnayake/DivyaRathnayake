@@ -10,7 +10,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-<p>I,m Divya Rathnayake , a passionate and skilled undergraduate from University of Moratuwa,Sri Lanka</p>
+<p>I,m Divya Rathnayake , a passionate and skilled undergraduate from University of Moratuwa,Sri Lanka 💻 </p>
 
 - 🌱 I’m currently learning *React*
 - 🤔 I’m looking for an internship.
