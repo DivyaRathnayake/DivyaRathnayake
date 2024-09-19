@@ -11,15 +11,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning *React*
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/dakshina-patabandi](www.linkedin.com/in/dakshina-patabandi)
-
-- 📝 I regularly write articles on [https://dakshinakp.substack.com/](https://dakshinakp.substack.com/)
+- 🌱 I’m currently learning * Universiy of Moratuwa,Sri Lanka as a ITM Undergraduate*
 
 - 💬 Ask me about *How to create a professional profile on Linkedin*
 
-- 📫 How to reach me *kpdakhina@gmail.com*
+- 📫 How to reach me *divyarathnayaka651@gmail.com*
 
   </td>
 <td width="50%" align="center">
