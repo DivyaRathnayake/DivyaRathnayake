@@ -10,8 +10,9 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+<p>I,m Divya Rathnayake , a passionate and skilled undergraduate from University of Moratuwa,Sri Lanka</p>
 
-- 🌱 I’m currently learning * Universiy of Moratuwa,Sri Lanka as a ITM Undergraduate*
+- 🌱 I’m currently learning *React*
 
 - 💬 Ask me about *How to create a professional profile on Linkedin*
 
