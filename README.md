@@ -38,7 +38,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshinaPatabandi&layout=compact&theme=dark&langs_count=10&exclude_repo=kasweb" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaRathnayake&layout=compact&theme=dark&langs_count=10&exclude_repo=kasweb" />
   
   
 </td>
