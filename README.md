@@ -19,7 +19,6 @@
 - 📫 How to reach me *divyarathnayaka651@gmail.com*
 - 😄 Pronouns **She/Her**
 
-
   </td>
 <td width="50%" align="center">
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>  
@@ -27,8 +26,6 @@
 </tr>
 </table>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!-----Statistics------>
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Statistics</h3>
