@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Divya Rathnayake </h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Undergraduate;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Undergraduate;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=8338ec&vCenter=true&size=45%22"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dakshinapatabandi&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p>
