@@ -23,9 +23,7 @@
 
   </td>
 <td width="50%" align="center">
-<!--   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> -->
-  <img align="center" alt="Coding" width="450" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
-  
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>  
   </td>
 </tr>
 </table>
