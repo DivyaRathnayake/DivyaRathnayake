@@ -60,7 +60,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divya rathnayake" width="50" height="50" /></a>
   <a href="https://www.instagram.com/divya.rathnayake" target="blank">
     <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="divya.rathnayake" width="50" height="50" /></a>
-  <a href="https://medium.com/@divyarathnayake" target="blank">
+  <a href="https://medium.com/@divyarathnayaka651" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="divya rathnayake" width="50" height="50" /></a>
   <a href="https://www.hackerrank.com/@divyarathnayaka1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divya rathnayake" width="50" height="50" /></a>
