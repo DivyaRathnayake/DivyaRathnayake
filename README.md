@@ -71,7 +71,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divya rathnayake" width="50" height="50" /></a>
 </p>
 
----
+
 
 <!-----Languages and Tools------>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -115,10 +115,10 @@
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="50" height="50"/></a>
 </p>
 
----
+
 
 <!--snake-->
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg">
