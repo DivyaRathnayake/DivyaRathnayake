@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Divya Rathnayake <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Divya Rathnayake ></h1>
 <h3 align="center">Web developer | Designer | Content Creator | exploring Technological Wonderland</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dakshinapatabandi&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p>
