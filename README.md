@@ -11,12 +11,12 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning **React**
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa,Sri Lanka**
-- 🤔 I’m looking for *an internship*
-- 💬 Ask me about *Anything*
+- 🤔 I’m looking for **an internship**
+- 💬 Ask me about **Web Development**
 - 📫 How to reach me *divyarathnayaka651@gmail.com*
-- 😄 Pronouns *She/Her*
+- 😄 Pronouns **She/Her**
 
 
   </td>
