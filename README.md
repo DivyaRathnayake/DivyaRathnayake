@@ -13,7 +13,7 @@
 <p>I,m Divya Rathnayake , a passionate and skilled undergraduate from University of Moratuwa,Sri Lanka 💻 </p>
 
 - 🌱 I’m currently learning *React*
-- 🤔 I’m looking for an internship.
+- 🤔 I’m looking for *an internship*
 - 💬 Ask me about *Anything*
 - 📫 How to reach me *divyarathnayaka651@gmail.com*
 - 😄 Pronouns *She/Her*
