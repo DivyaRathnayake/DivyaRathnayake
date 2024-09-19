@@ -56,7 +56,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/divya-rathnayake/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="divya rathnayake" width="50" height="50" /></a>
-  <a href="https://www.facebook.com/divya.rathnayake" target="blank">
+  <a href="https://www.facebook.com/divya.rathnayake.733" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divya rathnayake" width="50" height="50" /></a>
   <a href="https://www.instagram.com/divya.rathnayake" target="blank">
     <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="divya.rathnayake" width="50" height="50" /></a>
