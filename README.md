@@ -60,11 +60,11 @@
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="divya rathnayake" width="50" height="50" /></a>
   <a href="https://www.facebook.com/divya.rathnayake" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divya rathnayake" width="50" height="50" /></a>
-  <a href="https://www.instagram.com/dakshina_k.p" target="blank">
+  <a href="https://www.instagram.com/divya.rathnayake" target="blank">
     <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="dakshina_k.p" width="50" height="50" /></a>
   <a href="https://medium.com/@kpdakshina" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kpdakshina" width="50" height="50" /></a>
-  <a href="https://www.youtube.com/c/DakshinaPatabandi" target="blank">
+  <a href="https://www.youtube.com/c/DivyaRathnayaka" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dakshina patabandi" width="50" height="50" /></a>
   <a href="https://www.hackerrank.com/@divyarathnayake" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kpdakshina" width="50" height="50" /></a>
