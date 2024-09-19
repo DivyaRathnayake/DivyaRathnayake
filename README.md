@@ -1,11 +1,11 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<p align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Dakshina Patabandi <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
+<h1 align="center">Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Divya Rathnayake <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Web developer | Designer | Content Creator | exploring Technological Wonderland</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dakshinapatabandi&label=Profile%20views&color=0e75b6&style=flat" alt="dakshinapatabandi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dakshinapatabandi&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p>
 
 <table align="center">
 <tr border="none">
