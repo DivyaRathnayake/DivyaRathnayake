@@ -10,6 +10,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+<!-----About me------>
 
 - 🌱 I’m currently learning **React**
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa,Sri Lanka**
@@ -30,7 +31,7 @@
 
 <!-----Statistics------>
 
-<h3 align="center">My Statistics:<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Statistics</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -51,8 +52,8 @@
 <!-----Social Accounts------>
 
 <h3 align="center">
-  Connect with me 
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Connect with me 
 </h3>
 
 <p align="center">
@@ -74,8 +75,8 @@
 
 <!-----Languages and Tools------>
 <h3 align="center">
-  Languages and Tools 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
+  Languages and Tools   
 </h3>
 
 <p align="center">
