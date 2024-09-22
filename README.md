@@ -12,7 +12,7 @@
 <td width="50%" align="left">
 <!-----About me------>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Tailwind CSS**
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa,Sri Lanka**
 - 🤔 I’m looking for **an internship**
 - 💬 Ask me about **Web Development,I am happy to help**
