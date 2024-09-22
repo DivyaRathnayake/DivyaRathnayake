@@ -2,7 +2,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <h1 align="center">Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Divya Rathnayake </h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Skilled%20Undergraduate;Web%20Developer;Graphic%20Designer;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=600&height=100&color=9b5de5&vCenter=true&size=40%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Skilled%20Undergraduate;Web%20Developer;Graphic%20Designer;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=600&height=100&color=9b5de5&vCenter=true&size=39%22"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyarathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p>
@@ -87,6 +87,7 @@
   
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/></a> 
+    
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
 
@@ -99,6 +100,7 @@
 
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="50" height="50"/></a>
+    
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/></a>
 
