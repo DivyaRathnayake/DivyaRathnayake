@@ -10,6 +10,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+  
 <!-----About me------>
 
 - 🌱 I’m currently learning **React,Tailwind CSS**
