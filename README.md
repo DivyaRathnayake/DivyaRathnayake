@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Skilled%20Undergraduate;Web%20Developer;Graphic%20Designer;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=600&height=100&color=9b5de5&vCenter=true&size=39%22"></a>
 </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyarathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p>
 
 <table align="center">
