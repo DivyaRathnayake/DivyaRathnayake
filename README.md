@@ -35,16 +35,14 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaRathnayake&layout=compact&theme=dark&langs_count=10&exclude_repo=kasweb" /> 
 </td>
-<td width="50%" align="center">
+  <td width="50%" align="center">
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaRathnayake&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak"  /> 
   </td>
 </tr>
 </table>
 
-
 <!-----Social Accounts------>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Connect with me 
