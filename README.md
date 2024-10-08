@@ -61,7 +61,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divya rathnayake" width="50" height="50" /></a>
 </p>
 
-
 <!-----Languages and Tools------>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">
@@ -85,7 +84,7 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/></a>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
