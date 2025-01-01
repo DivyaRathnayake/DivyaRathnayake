@@ -10,8 +10,7 @@
 <td width="50%" align="left">
   
 <!-----About me------>
-
-- 🌱 I’m currently learning **React,Tailwind CSS**
+- 🌱 I’m currently learning **React,React Native,Tailwind CSS**
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa,Sri Lanka**
 - 🤔 I’m looking for **an internship**
 - 💬 Ask me about **Web Development,I am happy to help😉**
@@ -26,7 +25,6 @@
 </table>
 
 <!-----Statistics------>
-
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Statistics</h3>
 <p align="center">
 <table align="center">
