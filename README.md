@@ -16,7 +16,7 @@
 - 💬 Ask me about **Web Development,I am happy to help😉**
 - 📫 How to reach me *divyarathnayaka651@gmail.com*
 - 😄 Pronouns **She/Her**
-
+  
   </td>
 <td width="50%" align="center">
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>  
@@ -65,6 +65,7 @@
 </h3>
 
 <p align="center">
+  
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> </a> 
   
